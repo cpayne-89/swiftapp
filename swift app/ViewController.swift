@@ -3,7 +3,7 @@
 //  swift app
 //
 //  Created by User on 7/6/17.
-//  Copyright © 2017 Cpayne. All rights reserved.
+//  Copyright © 2017 Cpayne. All rights reserved..
 //
 
 import UIKit
